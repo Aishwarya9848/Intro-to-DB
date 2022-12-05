@@ -7,6 +7,6 @@ Kondakindhi Geetha - Geethareddy21
 
 Aishwarya Bandari - Aishwarya9848
 
-Vivek yasa - vivekreddyyasa7
+Vivek yasa - vivekreddyyasa6
 
 Deekshith damarla- deekshith-d
