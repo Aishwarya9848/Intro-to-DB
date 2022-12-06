@@ -80,9 +80,26 @@ INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
 VALUES (2, 'Champions Trophy',’8 teams’, $500000 );
 
 
+
+INSERT INTO Tournaments(Tournament_ID,Tournament_Name,Tournamnet_Level,Prize)
+VALUES (3, 'Bilateral',’2 teams’, $100000 );
+
+INSERT INTO Tournaments(Tournament_ID,Tournament_Name,Tournamnet_Level,Prize)
+VALUES (4, 'Triangular',’3 teams’, $300000 );
+
+
 INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
 
 VALUES (5, 'World Test Championship',’5 teams’, $400000 );
+
+
+INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
+
+VALUES (6, 'Asian cup',’8 teams’, $1000000 );
+
+INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
+
+VALUES (7, 'T20 World Cup',’8 teams’, $800000 );
 
 
 
