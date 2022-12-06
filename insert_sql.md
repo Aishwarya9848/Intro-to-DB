@@ -79,13 +79,6 @@ INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
 
 VALUES (2, 'Champions Trophy',’8 teams’, $500000 );
 
-INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
-
-VALUES (3, 'Bilateral',’2 teams’, $100000 );
-
-INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
-
-VALUES (4, 'Triangular',’3 teams’, $300000 );
 
 INSERT INTO Tournaments(Tournament\_ID,Tournament\_Name,Tournamnet\_Level,Prize)
 
